@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+data/
+cleaned_data/
+models/
+*.csv
+*.pth
+*.pt
+*.bin
+EOF
